@@ -1,0 +1,10 @@
+export enum UserRole {
+  ADMINISTRATOR = "ADMINISTRATOR",
+  SUPERADMIN = "SUPERADMIN",
+  CLIENT = "CLIENT",
+}
+
+export enum UserStatus {
+  ACTIVATED = "ACTIVATED",
+  DEACTIVATED = "DEACTIVATED",
+}
