@@ -136,7 +136,7 @@ Response:
 ```json
 {
     "returncode": "300",
-    "message": "AdEX API V1.0.0 is working...",
+    "message": "API is working...",
     "data": null
 }
 ```
